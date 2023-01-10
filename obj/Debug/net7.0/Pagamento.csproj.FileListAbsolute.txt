@@ -1,0 +1,15 @@
+C:\Users\felipe.nascimento\Desktop\Pagamento\obj\Debug\net7.0\Pagamento.csproj.AssemblyReference.cache
+C:\Users\felipe.nascimento\Desktop\Pagamento\obj\Debug\net7.0\Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.nascimento\Desktop\Pagamento\obj\Debug\net7.0\Pagamento.AssemblyInfoInputs.cache
+C:\Users\felipe.nascimento\Desktop\Pagamento\obj\Debug\net7.0\Pagamento.AssemblyInfo.cs
+C:\Users\felipe.nascimento\Desktop\Pagamento\obj\Debug\net7.0\Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\felipe.nascimento\Desktop\Pagamento\bin\Debug\net7.0\Pagamento.exe
+C:\Users\felipe.nascimento\Desktop\Pagamento\bin\Debug\net7.0\Pagamento.deps.json
+C:\Users\felipe.nascimento\Desktop\Pagamento\bin\Debug\net7.0\Pagamento.runtimeconfig.json
+C:\Users\felipe.nascimento\Desktop\Pagamento\bin\Debug\net7.0\Pagamento.dll
+C:\Users\felipe.nascimento\Desktop\Pagamento\bin\Debug\net7.0\Pagamento.pdb
+C:\Users\felipe.nascimento\Desktop\Pagamento\obj\Debug\net7.0\Pagamento.dll
+C:\Users\felipe.nascimento\Desktop\Pagamento\obj\Debug\net7.0\refint\Pagamento.dll
+C:\Users\felipe.nascimento\Desktop\Pagamento\obj\Debug\net7.0\Pagamento.pdb
+C:\Users\felipe.nascimento\Desktop\Pagamento\obj\Debug\net7.0\Pagamento.genruntimeconfig.cache
+C:\Users\felipe.nascimento\Desktop\Pagamento\obj\Debug\net7.0\ref\Pagamento.dll
